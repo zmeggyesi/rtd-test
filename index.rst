@@ -1,4 +1,4 @@
-PAGE 1 :doc:`page1`
+PAGE 1 :doc:`blurb`
 
 .. toctree::
   :glob:
