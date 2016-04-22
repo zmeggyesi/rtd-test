@@ -1,6 +1,6 @@
 `Easyling in a nutshell`_
 
-`Getting Started With Easyling`_
+`Getting Started With Easyling <page1.rst>`_
 
 -  `Workflow overview`_
 -  `Sales tool for LSPs and freelancers`_
